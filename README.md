@@ -1,2 +1,2 @@
 # homework-1
-basics of html &amp; css
+https://naharmiraj.github.io/homework-1/
